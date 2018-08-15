@@ -1,0 +1,14 @@
+* {
+    margin: 10px;
+    padding: 0;
+}
+body {
+    background-color: rgb(219, 240, 219);
+    font-family: 'Courier New', Courier, monospace;
+}
+body h1, h2 {
+    text-decoration: underline;
+}
+body h2, p, ul {
+    margin-left: 20px;
+}
